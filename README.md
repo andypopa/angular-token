@@ -1,3 +1,5 @@
+Updated to work with Angular 12.1.0 :)
+
 ![Angular-Token](https://raw.githubusercontent.com/neroniaky/angular-token/master/docs/angular-token-logo.png)
 
 [![npm version](https://badge.fury.io/js/angular-token.svg)](https://badge.fury.io/js/angular-token)
